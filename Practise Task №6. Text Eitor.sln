@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise Task №6. Text Eitor", "Practise Task №6. Text Eitor\Practise Task №6. Text Eitor.csproj", "{6454FF9D-686D-46C3-85D9-DA46ED1E75AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6454FF9D-686D-46C3-85D9-DA46ED1E75AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6454FF9D-686D-46C3-85D9-DA46ED1E75AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6454FF9D-686D-46C3-85D9-DA46ED1E75AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6454FF9D-686D-46C3-85D9-DA46ED1E75AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F103F589-D204-429F-A4A6-EF92A7341608}
+	EndGlobalSection
+EndGlobal

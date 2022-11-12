@@ -1,0 +1,25 @@
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\Practise Task №6. Text Eitor.exe
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\Practise Task №6. Text Eitor.deps.json
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\Practise Task №6. Text Eitor.runtimeconfig.json
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\Practise Task №6. Text Eitor.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\Practise Task №6. Text Eitor.pdb
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.csproj.CopyComplete
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\refint\Practise Task №6. Text Eitor.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.pdb
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\Practise Task №6. Text Eitor.genruntimeconfig.cache
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\obj\Debug\net6.0\ref\Practise Task №6. Text Eitor.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\Aspose.Cells.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Максим\source\repos\Practise Task №6. Text Eitor\Practise Task №6. Text Eitor\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
